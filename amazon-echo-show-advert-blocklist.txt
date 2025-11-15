@@ -1,0 +1,11 @@
+!
+! Title: AdGuard DNS filter
+! Description: List composed of several filters to try to stop adverts on Amazon Echo Shows.  Based on this Reddit thread: https://www.reddit.com/r/amazonecho/comments/1nxh34m/amazon_echo_how_i_think_i_killed_the_adverts_and/
+!   Currently based on this comment: https://www.reddit.com/r/amazonecho/comments/1nxh34m/comment/nn220me/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+!
+! Homepage: https://github.com/tristanjthompson/adguard-dns-blocklists
+! 
+||advertising.amazon.dev^
+||adskit.juno.alexa.amazon.dev^
+||cdn.beta.adskit.juno.alexa.amazon.dev^
+||amazon-adsystem.com^
